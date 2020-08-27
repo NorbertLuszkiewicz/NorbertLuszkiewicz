@@ -9,3 +9,5 @@
 👔 [linkedin](https://www.linkedin.com/in/norbert-%C5%82uszkiewicz-75b0891b3/) <br>
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
