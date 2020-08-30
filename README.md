@@ -11,41 +11,25 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
-
 **🐱 My Github Data** 
 
-> 🏆 109 Contributions in the Year 2020
+> 🏆 117 Contributions in the Year 2020
  > 
-> 📦 12.0 kB Used in Github's Storage 
+> 📦 12.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 7 Public Repositories
+> 📜 8 Public Repositories
  > 
 > 🔑 0 Private Repository 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    65 commits     █████████████████░░░░░░░░   69.89% 
-🌆 Daytime    24 commits     ██████░░░░░░░░░░░░░░░░░░░   25.81% 
-🌃 Evening    4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.3% 
+🌞 Morning    65 commits     █████████████████░░░░░░░░   67.71% 
+🌆 Daytime    26 commits     ██████░░░░░░░░░░░░░░░░░░░   27.08% 
+🌃 Evening    5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.21% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23% 
-Tuesday      9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
-Wednesday    20 commits     █████░░░░░░░░░░░░░░░░░░░░   21.51% 
-Thursday     22 commits     ██████░░░░░░░░░░░░░░░░░░░   23.66% 
-Friday       21 commits     █████░░░░░░░░░░░░░░░░░░░░   22.58% 
-Saturday     17 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.28% 
-Sunday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.08%
 
 ```
 
@@ -65,9 +49,6 @@ Git Config               0 secs              ░░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  14 hrs 19 mins      █████████████████████████   100.0%
 
-💻 Operating System: 
-Windows                  14 hrs 19 mins      █████████████████████████   100.0%
-
 ```
 
 **I Mostly Code in JavaScript** 
@@ -79,10 +60,6 @@ HTML                     1 repos             ████░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://github.com/NorbertLuszkiewicz/NorbertLuszkiewicz/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
