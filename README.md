@@ -13,13 +13,13 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 231 Contributions in the Year 2020
+> 🏆 235 Contributions in the Year 2020
  > 
-> 📦 15.8 kB Used in Github's Storage 
+> 📦 16.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 10 Public Repositories
+> 📜 11 Public Repositories
  > 
 > 🔑 0 Private Repository 
  > 
@@ -54,9 +54,9 @@ VS Code                  14 hrs 19 mins      ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               5 repos             ███████████████░░░░░░░░░░   62.5% 
-SCSS                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+JavaScript               6 repos             ████████████████░░░░░░░░░   66.67% 
+SCSS                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
 
 ```
 
