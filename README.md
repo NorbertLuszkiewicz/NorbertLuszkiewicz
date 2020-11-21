@@ -11,47 +11,47 @@
 
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
+**🐱 Mój GitHub** 
 
-> 🏆 251 Contributions in the Year 2020
+> 🏆 251 kontrybucji w roku 2020
  > 
-> 📦 16.6 kB Used in Github's Storage 
+> 📦 16.6 kB zajętego miejsca na Github 
  > 
-> 🚫 Not Opted to Hire
+> 🚫 nie szukam zatrudnienia
  > 
-> 📜 11 Public Repositories
+> 📜 11 publiczne repozytorium
  > 
-> 🔑 0 Private Repository 
+> 🔑 0 prywatne repozytorium 
  > 
-**I'm an Early 🐤** 
+**Jestem rannym 🐤** 
 
 ```text
-🌞 Morning    111 commits    ███████████████░░░░░░░░░░   61.33% 
-🌆 Daytime    58 commits     ████████░░░░░░░░░░░░░░░░░   32.04% 
-🌃 Evening    9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.97% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.66%
+🌞 Rano       111 commits    ███████████████░░░░░░░░░░   61.33% 
+🌆 Południe   58 commits     ████████░░░░░░░░░░░░░░░░░   32.04% 
+🌃 Wieczór    9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.97% 
+🌙 Noc        3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.66%
 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **Czas poświęcony na projekty w tym tygodniu** 
 
 ```text
-⌚︎ Time Zone: Europe/Warsaw
+⌚︎ Strefa czasowa: Europe/Warsaw
 
-💬 Programming Languages: 
+💬 Języki programowania: 
 SCSS                     7 hrs 2 mins        ████████████░░░░░░░░░░░░░   49.15% 
 HTML                     6 hrs 20 mins       ███████████░░░░░░░░░░░░░░   44.28% 
 JavaScript               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.78% 
 JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.65% 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
 
-🔥 Editors: 
+🔥 Środowiska programistyczne: 
 VS Code                  14 hrs 19 mins      █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in JavaScript** 
+**Najczęściej piszę w  JavaScript** 
 
 ```text
 JavaScript               6 repos             ████████████████░░░░░░░░░   66.67% 
