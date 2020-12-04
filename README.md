@@ -13,13 +13,13 @@
 <!--START_SECTION:waka-->
 **🐱 Mój GitHub** 
 
-> 🏆 267 kontrybucji w roku 2020
+> 🏆 266 kontrybucji w roku 2020
  > 
 > 📦 19.9 kB zajętego miejsca na Github 
  > 
 > 🚫 nie szukam zatrudnienia
  > 
-> 📜 12 publiczne repozytorium
+> 📜 11 publiczne repozytorium
  > 
 > 🔑 0 prywatne repozytorium 
  > 
