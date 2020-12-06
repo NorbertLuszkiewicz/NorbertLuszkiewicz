@@ -19,9 +19,9 @@
  > 
 > 🚫 nie szukam zatrudnienia
  > 
-> 📜 11 publiczne repozytorium
+> 📜 11 publiczne repozytorium 
  > 
-> 🔑 0 prywatne repozytorium 
+11 prywatne repozytorium 
  > 
 **Jestem rannym 🐤** 
 
@@ -51,7 +51,7 @@ VS Code                  14 hrs 19 mins      ███████████�
 
 ```
 
-**Najczęściej piszę w  JavaScript** 
+**Najczęściej piszę w JavaScript** 
 
 ```text
 JavaScript               7 repos             █████████████████░░░░░░░░   70.0% 
