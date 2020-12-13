@@ -15,7 +15,7 @@
 
 > 🏆 266 kontrybucji w roku 2020
  > 
-> 📦 19.9 kB zajętego miejsca na Github 
+> 📦 20.1 kB zajętego miejsca na Github 
  > 
 > 🚫 nie szukam zatrudnienia
  > 
