@@ -13,7 +13,7 @@
 <!--START_SECTION:waka-->
 **🐱 Mój GitHub** 
 
-> 🏆 270 kontrybucji w roku 2020
+> 🏆 0 kontrybucji w roku 2021
  > 
 > 📦 20.1 kB zajętego miejsca na Github 
  > 
