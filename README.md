@@ -15,7 +15,7 @@
 
 > 🏆 0 kontrybucji w roku 2021
  > 
-> 📦 22.7 kB zajętego miejsca na Github 
+> 📦 22.9 kB zajętego miejsca na Github 
  > 
 > 🚫 nie szukam zatrudnienia
  > 
