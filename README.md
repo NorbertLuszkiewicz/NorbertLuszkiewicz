@@ -1,10 +1,10 @@
 ### Hi, it's Norbert!👋
 
-![image](https://i.imgur.com/ynNQCJh.png)
+![image](https://i.imgur.com/y3Fbv48)
 
 
 🧠 learning Gatsby and Node.js <br>
-⚡ Fun fact: I can solve a Rubik's cube in under a 30 seconds! <br>
+⚡ Fun fact: I can solve a Rubik's cube in under a 20 seconds! <br>
 👔 [linkedin](https://www.linkedin.com/in/norbert-%C5%82uszkiewicz-75b0891b3/) <br>
 🖥 [Website](https://norbertluszkiewicz.pl/)<br>
 
