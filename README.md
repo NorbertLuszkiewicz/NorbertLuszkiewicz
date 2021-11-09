@@ -1,6 +1,6 @@
 ### Hi, it's Norbert!👋
 
-![image](https://i.imgur.com/y3Fbv48)
+![image](https://i.imgur.com/y3Fbv48.png)
 
 
 🧠 learning Gatsby and Node.js <br>
