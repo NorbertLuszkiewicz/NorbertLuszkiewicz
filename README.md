@@ -41,12 +41,10 @@
 ⌚︎ Strefa czasowa: Europe/Warsaw
 
 💬 Języki programowania: 
-YAML                     8 mins              ██████████████████████░░░   89.4% 
-HTML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   8.04% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.56%
+Brak aktywności w tym tygodniu
 
 🔥 Środowiska programistyczne: 
-VS Code                  9 mins              █████████████████████████   100.0%
+Brak aktywności w tym tygodniu
 
 ```
 
@@ -63,5 +61,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/11/2022 00:38:48 UTC
+ Last Updated on 06/11/2022 00:36:25 UTC
 <!--END_SECTION:waka-->
