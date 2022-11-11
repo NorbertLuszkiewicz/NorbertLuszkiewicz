@@ -10,13 +10,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C805%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C805%20hrs%2042%20mins-blue)
 
 **🐱 Mój GitHub** 
 
 > 🏆 31 kontrybucji w roku 2022
  > 
-> 📦 21.0 kB zajętego miejsca na GitHub 
+> 📦 21.1 kB zajętego miejsca na GitHub 
  > 
 > 🚫 nie szukam zatrudnienia
  > 
@@ -24,6 +24,34 @@
  > 
 > 🔑 2 prywatne repozytoria  
  > 
+**Jestem rannym 🐤** 
+
+```text
+🌞 Rano       3 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
+🌆 Południe   15 commits     ███████████████████░░░░░░   78.95% 
+🌃 Wieczór    1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
+🌙 Noc        0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+
+
+📊 **Czas poświęcony na projekty w tym tygodniu** 
+
+```text
+⌚︎ Strefa czasowa: Europe/Warsaw
+
+💬 Języki programowania: 
+TypeScript               1 hr 29 mins        ███████████████░░░░░░░░░░   62.23% 
+HTML                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.9% 
+Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.81% 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.75% 
+YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.95%
+
+🔥 Środowiska programistyczne: 
+VS Code                  2 hrs 24 mins       █████████████████████████   100.0%
+
+```
+
 **Najczęściej piszę w JavaScript** 
 
 ```text
@@ -37,5 +65,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2022 00:35:36 UTC
+ Last Updated on 11/11/2022 00:38:17 UTC
 <!--END_SECTION:waka-->
