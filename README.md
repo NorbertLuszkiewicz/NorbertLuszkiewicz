@@ -10,7 +10,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C009%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C010%20hrs%209%20mins-blue)
 
 **🐱 Mój GitHub** 
 
@@ -40,10 +40,13 @@
 🕑︎ Strefa czasowa: Europe/Warsaw
 
 💬 Języki programowania: 
-Brak aktywności w tym tygodniu
+TypeScript               11 mins             █████████████░░░░░░░░░░░░   51.70 % 
+HTML                     7 mins              ████████░░░░░░░░░░░░░░░░░   31.65 % 
+JSON                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 
 🔥 Środowiska programistyczne: 
-Brak aktywności w tym tygodniu
+VS Code                  23 mins             █████████████████████████   100.00 % 
 ```
 
 **Najczęściej piszę w JavaScript** 
@@ -59,5 +62,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/03/2023 00:31:16 UTC
+ Last Updated on 29/03/2023 00:33:55 UTC
 <!--END_SECTION:waka-->
