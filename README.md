@@ -49,15 +49,15 @@ Brak aktywności w tym tygodniu
 **Najczęściej piszę w JavaScript** 
 
 ```text
-JavaScript               16 repos            █████████████████░░░░░░░░   66.67 % 
-TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-SCSS                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+JavaScript               16 repos            █████████████████░░░░░░░░   69.57 % 
+TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+SCSS                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 
 
 
- Last Updated on 13/09/2023 00:26:08 UTC
+ Last Updated on 14/09/2023 00:26:00 UTC
 <!--END_SECTION:waka-->
