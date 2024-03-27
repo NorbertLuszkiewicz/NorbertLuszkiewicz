@@ -40,12 +40,10 @@
 🕑︎ Strefa czasowa: Europe/Warsaw
 
 💬 Języki programowania: 
-TypeScript               0 secs              ███████████████░░░░░░░░░░   61.85 % 
-SCSS                     0 secs              ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
-HTML                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Brak aktywności w tym tygodniu
 
 🔥 Środowiska programistyczne: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+Brak aktywności w tym tygodniu
 ```
 
 **Najczęściej piszę w JavaScript** 
@@ -61,5 +59,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/03/2024 00:27:17 UTC
+ Last Updated on 27/03/2024 00:27:01 UTC
 <!--END_SECTION:waka-->
