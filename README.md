@@ -40,10 +40,10 @@
 🕑︎ Strefa czasowa: Europe/Warsaw
 
 💬 Języki programowania: 
-JavaScript               1 hr 12 mins        █████████████████████████   100.00 % 
+Brak aktywności w tym tygodniu
 
 🔥 Środowiska programistyczne: 
-VS Code                  1 hr 12 mins        █████████████████████████   100.00 % 
+Brak aktywności w tym tygodniu
 ```
 
 **Najczęściej piszę w JavaScript** 
@@ -59,5 +59,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/07/2024 00:32:13 UTC
+ Last Updated on 12/07/2024 00:31:20 UTC
 <!--END_SECTION:waka-->
