@@ -40,13 +40,10 @@
 🕑︎ Strefa czasowa: Europe/Warsaw
 
 💬 Języki programowania: 
-Docker                   57 mins             ██████████████████████░░░   89.08 % 
-TypeScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Brak aktywności w tym tygodniu
 
 🔥 Środowiska programistyczne: 
-VS Code                  1 hr 5 mins         █████████████████████████   100.00 % 
+Brak aktywności w tym tygodniu
 ```
 
 **Najczęściej piszę w JavaScript** 
@@ -62,5 +59,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2024 00:36:10 UTC
+ Last Updated on 06/10/2024 00:40:12 UTC
 <!--END_SECTION:waka-->
