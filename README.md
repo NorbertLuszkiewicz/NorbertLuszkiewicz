@@ -10,13 +10,11 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C337%20hrs%2041%20mins-blue)
-
 **🐱 Mój GitHub** 
 
 > 📦 25.7 kB zajętego miejsca na GitHub 
  > 
-> 🏆 1 kontrybucji w roku 2025
+> 🏆 0 kontrybucji w roku 2025
  > 
 > 🚫 nie szukam zatrudnienia
  > 
@@ -24,28 +22,6 @@
  > 
 > 🔑 2 prywatne repozytoria 
  > 
-**Jestem rannym 🐤** 
-
-```text
-🌞 Rano                   511 commits         ████████████░░░░░░░░░░░░░   48.21 % 
-🌆 Południe               439 commits         ██████████░░░░░░░░░░░░░░░   41.42 % 
-🌃 Wieczór                110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-🌙 Noc                    0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **Czas poświęcony na projekty w tym tygodniu** 
-
-```text
-🕑︎ Strefa czasowa: Europe/Warsaw
-
-💬 Języki programowania: 
-Brak aktywności w tym tygodniu
-
-🔥 Środowiska programistyczne: 
-Brak aktywności w tym tygodniu
-```
-
 **Najczęściej piszę w JavaScript** 
 
 ```text
@@ -59,5 +35,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/05/2025 00:43:39 UTC
+ Last Updated on 22/05/2025 00:43:10 UTC
 <!--END_SECTION:waka-->
