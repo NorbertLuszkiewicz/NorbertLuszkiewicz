@@ -16,8 +16,6 @@
 
 > 📦 25.7 kB zajętego miejsca na GitHub 
  > 
-> 🏆 1 kontrybucji w roku 2025
- > 
 > 🚫 nie szukam zatrudnienia
  > 
 > 📜 24 publiczne repozytorium 
@@ -40,11 +38,10 @@
 🕑︎ Strefa czasowa: Europe/Warsaw
 
 💬 Języki programowania: 
-HTML                     14 mins             ████████████████████████░   94.00 % 
-SCSS                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Brak aktywności w tym tygodniu
 
 🔥 Środowiska programistyczne: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+Brak aktywności w tym tygodniu
 ```
 
 **Najczęściej piszę w JavaScript** 
@@ -60,5 +57,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2025 00:44:39 UTC
+ Last Updated on 14/06/2025 00:42:46 UTC
 <!--END_SECTION:waka-->
