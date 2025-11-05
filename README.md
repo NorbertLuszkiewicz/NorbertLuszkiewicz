@@ -10,6 +10,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C358%20hrs%2057%20mins-blue)
+
 **🐱 Mój GitHub** 
 
 > 📦 25.9 kB zajętego miejsca na GitHub 
@@ -57,5 +59,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/11/2025 00:42:57 UTC
+ Last Updated on 05/11/2025 00:44:30 UTC
 <!--END_SECTION:waka-->
